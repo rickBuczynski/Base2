@@ -1,16 +1,3 @@
-Game.cpp
-
-	Main Game loop
-	Set-up a game session
-	Clean up on game exit
-	
-Muliplayer.cpp
-
-	Starting and exiting multiplayer game
-	Commuication between peers
-	
-Peer.cpp
-
-	Creating a new peer
-	Runs AI if not a human peer
-	
+-I wrote this game while I was first learning C++ and the code quality reflects that
+-Trying to get a whole multiplayer game working with SFML instead of a game engine was a huge mistake
+-This repo is mostly about what not to do for your first game
